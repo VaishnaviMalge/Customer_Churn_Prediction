@@ -1,0 +1,10 @@
+Requirements:
+
+Pandas
+Numpy
+Matplotlib
+Seaborn
+Scikit-learn
+Pickle
+Streamlit
+
