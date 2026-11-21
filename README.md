@@ -64,15 +64,8 @@ The application predicts whether customers are likely to churn and helps busines
 - Run `streamlit run app.py`.
 - The application opens locally in a web browser.
 
-**Application Inputs:**
+User Interaction & Prediction:
+- Enter customer details such as Payment Method, Monthly Charges, Total Charges, and Tenure Bins into the Streamlit application.
+- The application processes the inputs using the trained machine learning model and predicts whether the customer is likely to churn or stay.
 
-- Payment Method
-- Monthly Charges
-- Total Charges
-- Tenure Bins
-
-**Output:** Predicts whether the customer is likely to stay or churn.
-
-*Source: Your uploaded PDF, pages 1–2.*&#x20;
-
-README.pdf
+Note: This README was drafted with the assistance of AI to improve clarity, structure, and readability. 
