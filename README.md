@@ -1,4 +1,3 @@
-Here is the text extracted from your PDF, formatted so you can copy and paste it.
 
 ## **Customer Churn Prediction: End-to-End ML Project with Streamlit App**
 
